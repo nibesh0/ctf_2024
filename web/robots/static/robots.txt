@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /Yo_ho_ho_ho!_A_door!
